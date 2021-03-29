@@ -2,6 +2,7 @@ import os
 import torch
 import torch.nn as nn
 from torchsummary import summary
+
 """
 Authors of model: Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton
 
@@ -49,11 +50,10 @@ class alexnet(nn.Module):
         return x
 
 if __name__ == '__main__':
-
     model = alexnet()
     print(model) 
     print("\nModel's Summary")
     summary(model, (3, 227, 227))
 
     print("\nDevice: ", device)
-
+   

@@ -1,25 +1,30 @@
-# learn-PyTorch
+# Deep Learning Models
 
-Learn PyTorch by implemention. Models and architectures implementaions.
+Exploring and Learning Deep Learning by implemention. This repo contains models and deep learning architectures developed in python using frameworks like: Scikit Learn, PyTorch, Numpy and SageMaker.
 
 ## Models: 
-
+- [x] Multi Layered Perceptron (Numpy)
 - [ ] Vision Models
 - [ ] Language models 
 - [ ] LSTM
 - [ ] RNN
 - [ ] GANs
 
-## Architectures
+## CNN Architectures
 
 - [x] AlexNet
 - [ ] ResNet
 - [ ] VGG19 
 - [ ] Inception
 
+## SageMaker Deployment Case Studies
+- [x] Population Segmentation: k-means and PCA
+- [x] Fraud Detection
+- [x] Energy Consumption: Time Series Forecasting using DeepAR
 
 ## References: 
  - https://github.com/pytorch/examples
+ - Udacity MLE Nanodegree 
  
 ## Author: 
  - Pratik Kumar

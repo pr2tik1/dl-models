@@ -3,6 +3,7 @@
 Exploring and Learning Deep Learning by implemention. This repo contains models and deep learning architectures developed in python using frameworks like: Scikit Learn, PyTorch, Numpy and SageMaker.
 
 ## Models: 
+- [x] Logistic Regression (PyTorch)
 - [x] Multi Layered Perceptron (Numpy)
 - [ ] Vision Models
 - [ ] Language models 

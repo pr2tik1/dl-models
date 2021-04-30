@@ -7,7 +7,7 @@
 
 This part of the repository contains multiclass classification of MNIST data using Classification models for comparitive study.
 
-<details>
+<details open>
 
 ## About Data 
 1. MNIST Handwritten Digits dataset : It contains images of digits taken from a variety of scanned documents, normalized in size and centered. Each image is a 28 by 28 pixel square (784 pixels total), values of image pizels ranging from 0-255. The dataset contains 40,000 images for model training and 10,000 images for the evaluation of the model. Source : Kaggle or Framework(PyTorch,sklearn).
@@ -16,7 +16,7 @@ This part of the repository contains multiclass classification of MNIST data usi
 
 ## Handwritten Digits
 
-<details>
+<details open>
 <summary> Digit Recognizer using Numpy (Scratch Implementation)</summary> 
 
 + Multi Layer Perceptron <a href="https://github.com/pr2tik1/mnist/blob/master/src/train.py">: Training code</a>
@@ -25,7 +25,7 @@ This part of the repository contains multiclass classification of MNIST data usi
 
 </details>
 
-<details>
+<details open>
 <summary> Digit Recognizer using PyTorch</summary> 
 
 + Multi Layer Perceptron <a href="https://github.com/pr2tik1/Digit-recognizer/blob/master/mlp-digits-mnist.ipynb">: Code</a>
@@ -39,7 +39,7 @@ This part of the repository contains multiclass classification of MNIST data usi
 
 ## Fashion-MNIST
 
-<details>
+<details open>
 <summary>MLP classifier: PyTorch</summary>
       
 + Multi Layer Perceptron<a href="https://github.com/pr2tik1/Digit-recognizer/blob/master/mlp-fashion-mnist.ipynb">: Code</a> 
@@ -48,7 +48,7 @@ This part of the repository contains multiclass classification of MNIST data usi
 
 </details>
 
-<details>
+<details open>
 <summary>MLP classifier: Tensorflow</summary>
       
 + Multi Layer Perceptron<a href="https://github.com/pr2tik1/Digit-recognizer/blob/master/tf-mnist.ipynb">: Code</a> 
@@ -58,7 +58,7 @@ This part of the repository contains multiclass classification of MNIST data usi
 </details>
 
 
-<details>
+<details open>
 <summary>LeNet classifier</summary>
       
 + LeNet[: Code](https://github.com/pr2tik1/mnist/blob/master/LeNet.ipynb) 
